@@ -1,0 +1,1 @@
+Relationship between a [[symbol]] and what it represents.

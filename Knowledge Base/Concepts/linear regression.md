@@ -1,0 +1,1 @@
+A type of [[regression]], where we try to model the relationship between variables as a straight line.

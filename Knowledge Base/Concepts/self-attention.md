@@ -1,0 +1,1 @@
+A mechanism that weighs input elements by [[relevance]] to each other for [[context]]-aware output.

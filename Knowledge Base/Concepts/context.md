@@ -1,0 +1,1 @@
+Surrounding information that gives [[meaning]] to data.

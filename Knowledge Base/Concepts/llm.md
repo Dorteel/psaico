@@ -1,0 +1,1 @@
+A neural network trained on text to predict and generate language.

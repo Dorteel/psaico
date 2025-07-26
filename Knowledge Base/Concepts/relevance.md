@@ -1,0 +1,1 @@
+Degree to which something is connected to a goal or context.

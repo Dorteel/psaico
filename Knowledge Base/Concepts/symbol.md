@@ -1,0 +1,1 @@
+A sign that stands for something else by convention or association.

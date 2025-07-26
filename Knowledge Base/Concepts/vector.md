@@ -1,0 +1,1 @@
+An ordered list of numbers representing magnitude and direction.

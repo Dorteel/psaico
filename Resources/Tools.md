@@ -1,0 +1,2 @@
+[Neuronpedia](https://www.neuronpedia.org/gpt2-small/?sourceSet=res-jb&selectedLayers=[]&sortIndexes=[]&ignoreBos=true&q=Exploring%20the%20streets%20of%20Bangkok%2C%20one%20must%20try%20the%20street%20vendor%27s%20mango%20sticky%20rice%2C%20a%20delightful%20dessert%20that%20perfectly%20balances%20sweet%20and%20savory%20with%20creamy%20coconut%20milk)
+[Transformer Debugger](https://github.com/openai/transformer-debugger)

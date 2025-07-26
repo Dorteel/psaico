@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "f0b8a168e8feaf56",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec3de970debcc48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d40465e42d5fa96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/(2024) Improving Dictionary Learning with Gated Sparse Autoencoders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(2024) Improving Dictionary Learning with Gated Sparse Autoencoders"
+            }
+          },
+          {
+            "id": "219f14d6c39808a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Concepts/matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "matrix"
+            }
+          },
+          {
+            "id": "2b3d401463dda5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Concepts/0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0"
+            }
+          },
+          {
+            "id": "26ea5fa76befdb23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Concepts/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "e20ba0d37a1b329e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Concepts/π.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "π"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2264f2a640bcf0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aeeb88e0f16378c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24cf4519598e28f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fbc1e3008c7bd2df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "489d7ad7cab3d164",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afc05f1cc8b9025a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d910023884137d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3efbe4a67b104416",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brainstorming/R&D Line/Idea - Jungian AI psychology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Idea - Jungian AI psychology"
+            }
+          },
+          {
+            "id": "960126aa5915ea24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Brainstorming/R&D Line/Idea - Jungian AI psychology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Idea - Jungian AI psychology"
+            }
+          },
+          {
+            "id": "f214c622cc992448",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "26ef322d6f14ac7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brainstorming/R&D Line/Idea - Jungian AI psychology.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Idea - Jungian AI psychology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5d40465e42d5fa96",
+  "lastOpenFiles": [
+    "Resources/Tools.md",
+    "Resources/(2024) Improving Dictionary Learning with Gated Sparse Autoencoders.md",
+    "Brainstorming/R&D Line/Background/Morality.md",
+    "Brainstorming/R&D Line/Background/(ChatGPT) Weight Initialization.md",
+    "Resources/(2024 Antropic) Mapping the Mind of a Large Language Model.md",
+    "Resources/Kircher, Athanasius. - Aritmología. Historia Real y Esotérica de los Números [1984].pdf",
+    "Resources/(2025 ICLR) Sparse Feature Circuits - Discovering and Editing Interpretable Causal Graphs in Language Models.md",
+    "Tools",
+    "Resources/(2023 Antropic) Decomposing Language Models Into Understandable Components.md",
+    "Knowledge Base/Concepts/dictionary learning.md",
+    "Brainstorming/R&D Line/Idea - Jungian AI psychology.md",
+    "Brainstorming/R&D Line/Outline.md",
+    "Knowledge Base/Concepts/i.md",
+    "Knowledge Base/Concepts/rotation.md",
+    "Knowledge Base/Concepts/π.md",
+    "Knowledge Base/Concepts/e.md",
+    "Knowledge Base/Concepts/logarithm.md",
+    "Knowledge Base/Concepts/square root.md",
+    "Knowledge Base/Concepts/Untitled.md",
+    "Knowledge Base/Concepts/natural numbers.md",
+    "Knowledge Base/Concepts/CLIP.md",
+    "Knowledge Base/Concepts/classifier-free guidance.md",
+    "Resources/Videos.md",
+    "Knowledge Base/Concepts/complex number.md",
+    "Knowledge Base/Concepts/euler's formula.md",
+    "Knowledge Base/Concepts/euler's identity.md",
+    "Knowledge Base/Concepts/matrix.md",
+    "Knowledge Base/Concepts/cross product.md",
+    "Brainstorming/R&D Line/Background",
+    "Brainstorming/R&D Line",
+    "Knowledge Base",
+    "Brainstorming",
+    "Resources",
+    "Knowledge Base/Concepts"
+  ]
+}

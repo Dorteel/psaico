@@ -1,0 +1,1 @@
+A tensor is a multi-dimensional array generalizing scalars, vectors, and matrices.

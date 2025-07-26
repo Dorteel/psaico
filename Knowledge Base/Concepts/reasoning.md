@@ -1,0 +1,1 @@
+The process of drawing conclusions from facts or principles.

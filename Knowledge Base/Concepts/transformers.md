@@ -1,0 +1,1 @@
+A model that processes input data in parallel using [[self-attention]] to capture [[context]].

@@ -1,0 +1,1 @@
+In AI: A [[function]] that transforms inputs into outputs using weights, bias, and activation.

@@ -1,0 +1,1 @@
+The root of the square reduces the dimension. One cannot be reduced further, it is itself (1)
