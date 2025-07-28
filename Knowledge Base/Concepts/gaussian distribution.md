@@ -1,0 +1,1 @@
+bell-shaped curve, where the area under the curve equals to 1 (It integrates to 1)
