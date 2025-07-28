@@ -1,0 +1,1 @@
+Gives equal probability to each outcome

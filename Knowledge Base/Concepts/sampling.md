@@ -1,0 +1,1 @@
+The process of generating outcomes from a probability distribution.
