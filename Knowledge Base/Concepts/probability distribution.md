@@ -6,3 +6,5 @@ It's a function (p(s))
 Famous distributions:
 * [[uniform distribution]]
 * [[gaussian distribution]]
+
+Neural networks are approximations of probability distributions (we try to use them to approximate the true underlying probability distribution).
