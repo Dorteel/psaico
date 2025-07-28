@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base/Concepts/KL divergence.md",
+                "file": "Brainstorming/R&D Line/Background/The Platonic Representation Hypothesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KL divergence"
+              "title": "The Platonic Representation Hypothesis"
             }
           },
           {
@@ -283,8 +283,14 @@
   },
   "active": "219f14d6c39808a5",
   "lastOpenFiles": [
-    "Knowledge Base/Concepts/probability distribution.md",
+    "Brainstorming/R&D Line/Idea - Jungian AI psychology.md",
+    "Brainstorming/R&D Line/Background/The Platonic Representation Hypothesis.md",
+    "Brainstorming/R&D Line/Background/(ChatGPT) Weight Initialization.md",
+    "Brainstorming/R&D Line/Background/Morality.md",
+    "Resources/(2024 MIT) The Platonic Representation Hypothesis.md",
+    "Resources/(2025 Cornell) Harnessing the Universal Geometry of Embeddings.md",
     "Knowledge Base/Concepts/KL divergence.md",
+    "Knowledge Base/Concepts/probability distribution.md",
     "Knowledge Base/Concepts/cross-entropy.md",
     "Knowledge Base/Concepts/entropy.md",
     "Knowledge Base/Concepts/cross product.md",
@@ -303,14 +309,8 @@
     "Resources/(2024 Galahad) The Language of Angels.md",
     "Resources/(2024) Improving Dictionary Learning with Gated Sparse Autoencoders.md",
     "Resources/Tools.md",
-    "Brainstorming/R&D Line/Background/Morality.md",
-    "Brainstorming/R&D Line/Background/(ChatGPT) Weight Initialization.md",
     "Resources/Kircher, Athanasius. - Aritmología. Historia Real y Esotérica de los Números [1984].pdf",
-    "Resources/(2025 ICLR) Sparse Feature Circuits - Discovering and Editing Interpretable Causal Graphs in Language Models.md",
     "Tools",
-    "Resources/(2023 Antropic) Decomposing Language Models Into Understandable Components.md",
-    "Knowledge Base/Concepts/dictionary learning.md",
-    "Brainstorming/R&D Line/Idea - Jungian AI psychology.md",
     "Brainstorming/R&D Line/Background",
     "Brainstorming/R&D Line",
     "Knowledge Base",
